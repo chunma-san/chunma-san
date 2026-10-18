@@ -341,7 +341,7 @@
       "prs_closed": 0,
       "pushes": 88
     },
-    "event_limit_reached": false,
+    "event_limit_reached": true,
     "contributors": [
       {
         "login": "chunma-san",
