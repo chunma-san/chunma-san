@@ -40,8 +40,6 @@
 </p>
 
 <!-- CAT-COUNTER:START -->
-## Profile visits
-
 <p align="center">
   <img src="https://count.himiku.com/@chunma-chunma-san-58ed63?theme=capoo-2&amp;padding=6&amp;scale=0.8&amp;darkmode=1" alt="Cute cat profile visits counter" />
 </p>
