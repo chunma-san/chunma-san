@@ -170,7 +170,7 @@
         80,
         7,
         2,
-        2
+        3
       ],
       "issues_opened": [
         0,
@@ -330,16 +330,16 @@
         67,
         1,
         2,
-        2
+        3
       ]
     },
     "totals": {
-      "events": 91,
+      "events": 92,
       "issues_opened": 1,
       "issues_closed": 1,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 72
+      "pushes": 73
     },
     "event_limit_reached": false,
     "contributors": [
