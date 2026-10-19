@@ -166,10 +166,10 @@
         0,
         0,
         0,
-        77,
+        75,
         7,
         3,
-        37,
+        38,
         1
       ],
       "issues_opened": [
@@ -326,15 +326,15 @@
         0,
         0,
         0,
-        65,
+        64,
         1,
         3,
-        37,
+        38,
         1
       ]
     },
     "totals": {
-      "events": 125,
+      "events": 124,
       "issues_opened": 1,
       "issues_closed": 1,
       "prs_opened": 0,
