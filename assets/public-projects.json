@@ -166,11 +166,11 @@
         0,
         0,
         0,
-        51,
+        49,
         6,
         3,
         48,
-        11
+        12
       ],
       "issues_opened": [
         0,
@@ -326,20 +326,20 @@
         0,
         0,
         0,
-        50,
+        48,
         1,
         3,
         48,
-        10
+        11
       ]
     },
     "totals": {
-      "events": 119,
+      "events": 118,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 112
+      "pushes": 111
     },
     "event_limit_reached": true,
     "contributors": [
