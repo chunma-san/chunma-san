@@ -166,7 +166,7 @@
         0,
         0,
         0,
-        72,
+        71,
         7,
         3,
         38,
@@ -230,7 +230,7 @@
         0,
         0,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -334,9 +334,9 @@
       ]
     },
     "totals": {
-      "events": 121,
+      "events": 120,
       "issues_opened": 0,
-      "issues_closed": 1,
+      "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
       "pushes": 105
