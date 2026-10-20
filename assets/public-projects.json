@@ -165,7 +165,7 @@
         0,
         0,
         0,
-        28,
+        27,
         6,
         3,
         51,
@@ -325,7 +325,7 @@
         0,
         0,
         0,
-        28,
+        27,
         1,
         3,
         51,
@@ -334,12 +334,12 @@
       ]
     },
     "totals": {
-      "events": 104,
+      "events": 103,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 98
+      "pushes": 97
     },
     "event_limit_reached": true,
     "contributors": [
