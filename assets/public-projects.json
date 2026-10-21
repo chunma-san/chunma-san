@@ -17,6 +17,14 @@
       "archived": false
     },
     {
+      "name": "chunma-san/chunma-website",
+      "url": "https://github.com/chunma-san/chunma-website",
+      "description": "My personal website: black and crimson ASCII terminal, library, and public projects.",
+      "language": null,
+      "fork": false,
+      "archived": false
+    },
+    {
       "name": "chunma-san/discord-archive",
       "url": "https://github.com/chunma-san/discord-archive",
       "description": "A modular Discord event archive with audit logs, moderation records and voice dashboards.",
@@ -345,7 +353,7 @@
     "contributors": [
       {
         "login": "chunma-san",
-        "commits": 201
+        "commits": 203
       }
     ]
   }
