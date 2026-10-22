@@ -20,7 +20,7 @@
       "name": "chunma-san/chunma-website",
       "url": "https://github.com/chunma-san/chunma-website",
       "description": "My personal website: black and crimson ASCII terminal, library, and public projects.",
-      "language": null,
+      "language": "JavaScript",
       "fork": false,
       "archived": false
     },
@@ -174,7 +174,7 @@
         0,
         0,
         0,
-        45,
+        44,
         21,
         20,
         10,
@@ -334,7 +334,7 @@
         0,
         0,
         0,
-        45,
+        44,
         20,
         20,
         10,
@@ -342,12 +342,12 @@
       ]
     },
     "totals": {
-      "events": 108,
+      "events": 107,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 107
+      "pushes": 106
     },
     "event_limit_reached": true,
     "contributors": [
