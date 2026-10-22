@@ -174,11 +174,11 @@
         0,
         0,
         0,
-        41,
+        40,
         21,
         21,
         11,
-        12
+        15
       ],
       "issues_opened": [
         0,
@@ -334,20 +334,20 @@
         0,
         0,
         0,
-        41,
+        40,
         20,
         21,
         11,
-        12
+        15
       ]
     },
     "totals": {
-      "events": 106,
+      "events": 108,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 105
+      "pushes": 107
     },
     "event_limit_reached": true,
     "contributors": [
