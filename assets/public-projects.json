@@ -173,7 +173,7 @@
         0,
         0,
         0,
-        24,
+        23,
         21,
         21,
         15,
@@ -333,7 +333,7 @@
         0,
         0,
         0,
-        24,
+        23,
         20,
         21,
         15,
@@ -342,12 +342,12 @@
       ]
     },
     "totals": {
-      "events": 107,
+      "events": 106,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 106
+      "pushes": 105
     },
     "event_limit_reached": true,
     "contributors": [
