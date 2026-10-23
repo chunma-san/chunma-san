@@ -60,7 +60,7 @@
       "name": "chunma-san/Equicord",
       "url": "https://github.com/chunma-san/Equicord",
       "description": "Unofficial Equicord fork with preserved custom plugins and validated upstream sync builds.",
-      "language": null,
+      "language": "TypeScript",
       "fork": true,
       "archived": false
     },
