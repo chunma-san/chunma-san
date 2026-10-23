@@ -57,6 +57,14 @@
       "archived": false
     },
     {
+      "name": "chunma-san/Equicord",
+      "url": "https://github.com/chunma-san/Equicord",
+      "description": "The other cutest Discord client mod",
+      "language": null,
+      "fork": true,
+      "archived": false
+    },
+    {
       "name": "chunma-san/music-downloader",
       "url": "https://github.com/chunma-san/music-downloader",
       "description": "A URL-based music download helper with optional owner-restricted Telegram controls.",
