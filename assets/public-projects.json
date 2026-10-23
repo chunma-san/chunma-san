@@ -178,7 +178,7 @@
         21,
         16,
         35,
-        7
+        8
       ],
       "issues_opened": [
         0,
@@ -338,16 +338,16 @@
         21,
         16,
         35,
-        7
+        8
       ]
     },
     "totals": {
-      "events": 94,
+      "events": 95,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 94
+      "pushes": 95
     },
     "event_limit_reached": true,
     "contributors": [
