@@ -173,7 +173,7 @@
         0,
         0,
         0,
-        21,
+        20,
         20,
         21,
         15,
@@ -333,7 +333,7 @@
         0,
         0,
         0,
-        21,
+        20,
         19,
         21,
         15,
@@ -342,18 +342,18 @@
       ]
     },
     "totals": {
-      "events": 103,
+      "events": 102,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 102
+      "pushes": 101
     },
     "event_limit_reached": true,
     "contributors": [
       {
         "login": "chunma-san",
-        "commits": 261
+        "commits": 262
       }
     ]
   }
