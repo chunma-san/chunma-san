@@ -76,7 +76,7 @@
       "name": "chunma-san/lnreader-arabic-plugins",
       "url": "https://github.com/chunma-san/lnreader-arabic-plugins",
       "description": "Arabic-only LNReader plugin catalog, source maintenance and daily live checks.",
-      "language": null,
+      "language": "TypeScript",
       "fork": true,
       "archived": false
     },
