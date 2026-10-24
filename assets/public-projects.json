@@ -11,7 +11,7 @@
     {
       "name": "chunma-san/ChunCord",
       "url": "https://github.com/chunma-san/ChunCord",
-      "description": "ChunCord: an Equicord fork with custom plugins, 123 selected TestCord plugins and validated upstream updates.",
+      "description": "ChunCord: an Equicord fork with 123 selected TestCord plugins, a Windows installer and verified updates inside Discord.",
       "language": "TypeScript",
       "fork": true,
       "archived": false
@@ -19,7 +19,7 @@
     {
       "name": "chunma-san/ChunCord-Installer",
       "url": "https://github.com/chunma-san/ChunCord-Installer",
-      "description": "A cross platform gui/cli app for installing Equicord",
+      "description": "Windows GUI installer for ChunCord with verified downloads, repair, uninstall and installer updates.",
       "language": "Go",
       "fork": true,
       "archived": false
