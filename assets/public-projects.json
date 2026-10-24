@@ -193,7 +193,7 @@
         17,
         16,
         35,
-        13,
+        14,
         0
       ],
       "issues_opened": [
@@ -358,7 +358,7 @@
       ]
     },
     "totals": {
-      "events": 91,
+      "events": 92,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
