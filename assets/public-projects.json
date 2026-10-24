@@ -20,7 +20,7 @@
       "name": "chunma-san/ChunCord-Installer",
       "url": "https://github.com/chunma-san/ChunCord-Installer",
       "description": "A cross platform gui/cli app for installing Equicord",
-      "language": null,
+      "language": "Go",
       "fork": true,
       "archived": false
     },
