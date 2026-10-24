@@ -191,7 +191,7 @@
         0,
         0,
         5,
-        12,
+        11,
         35,
         21,
         27
@@ -351,19 +351,19 @@
         0,
         0,
         5,
-        12,
+        11,
         35,
         20,
         27
       ]
     },
     "totals": {
-      "events": 100,
+      "events": 99,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 99
+      "pushes": 98
     },
     "event_limit_reached": true,
     "contributors": [
