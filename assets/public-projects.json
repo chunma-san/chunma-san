@@ -192,7 +192,7 @@
         0,
         3,
         10,
-        35,
+        34,
         22,
         33
       ],
@@ -352,18 +352,18 @@
         0,
         3,
         10,
-        35,
+        34,
         21,
         33
       ]
     },
     "totals": {
-      "events": 103,
+      "events": 102,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 102
+      "pushes": 101
     },
     "event_limit_reached": true,
     "contributors": [
