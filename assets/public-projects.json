@@ -9,6 +9,22 @@
       "archived": false
     },
     {
+      "name": "chunma-san/ChunCord",
+      "url": "https://github.com/chunma-san/ChunCord",
+      "description": "ChunCord: an Equicord fork with custom plugins, 123 selected TestCord plugins and validated upstream updates.",
+      "language": "TypeScript",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "chunma-san/ChunCord-Installer",
+      "url": "https://github.com/chunma-san/ChunCord-Installer",
+      "description": "A cross platform gui/cli app for installing Equicord",
+      "language": null,
+      "fork": true,
+      "archived": false
+    },
+    {
       "name": "chunma-san/chunma-san",
       "url": "https://github.com/chunma-san/chunma-san",
       "description": "Profile artwork, Discord presence and self-hosted projects.",
@@ -54,14 +70,6 @@
       "description": "A silent Discord voice bot with a saved channel and automatic connection maintenance.",
       "language": "Python",
       "fork": false,
-      "archived": false
-    },
-    {
-      "name": "chunma-san/Equicord",
-      "url": "https://github.com/chunma-san/Equicord",
-      "description": "Unofficial Equicord fork with preserved custom plugins and validated upstream sync builds.",
-      "language": "TypeScript",
-      "fork": true,
       "archived": false
     },
     {
