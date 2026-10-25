@@ -199,7 +199,7 @@
         0,
         0,
         2,
-        11,
+        10,
         23,
         54,
         8
@@ -359,19 +359,19 @@
         0,
         0,
         2,
-        11,
+        10,
         22,
         54,
         8
       ]
     },
     "totals": {
-      "events": 98,
+      "events": 97,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 97
+      "pushes": 96
     },
     "event_limit_reached": true,
     "contributors": [
