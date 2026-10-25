@@ -199,7 +199,7 @@
         0,
         0,
         2,
-        17,
+        16,
         23,
         53,
         6
@@ -359,19 +359,19 @@
         0,
         0,
         2,
-        17,
+        16,
         22,
         53,
         6
       ]
     },
     "totals": {
-      "events": 101,
+      "events": 100,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 100
+      "pushes": 99
     },
     "event_limit_reached": true,
     "contributors": [
