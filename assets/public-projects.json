@@ -199,7 +199,7 @@
         0,
         0,
         3,
-        19,
+        18,
         23,
         53,
         4
@@ -359,25 +359,25 @@
         0,
         0,
         3,
-        19,
+        18,
         22,
         53,
         4
       ]
     },
     "totals": {
-      "events": 102,
+      "events": 101,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 101
+      "pushes": 100
     },
     "event_limit_reached": true,
     "contributors": [
       {
         "login": "chunma-san",
-        "commits": 323
+        "commits": 324
       }
     ]
   }
