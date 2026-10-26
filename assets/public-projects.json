@@ -200,7 +200,7 @@
         0,
         0,
         4,
-        50,
+        49,
         30,
         8
       ],
@@ -360,18 +360,18 @@
         0,
         0,
         4,
-        50,
+        49,
         30,
         8
       ]
     },
     "totals": {
-      "events": 92,
+      "events": 91,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 92
+      "pushes": 91
     },
     "event_limit_reached": true,
     "contributors": [
