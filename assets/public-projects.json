@@ -199,7 +199,7 @@
         0,
         0,
         0,
-        10,
+        9,
         64,
         25,
         2
@@ -366,7 +366,7 @@
       ]
     },
     "totals": {
-      "events": 101,
+      "events": 100,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
