@@ -25,6 +25,23 @@
 </p>
 <!-- discord-presence:end -->
 
+<!-- PROFILE-METRICS:START -->
+## My GitHub, at a glance
+
+Building self-hosted tools, Discord integrations and practical automation. Always learning, testing and refining.
+
+<table>
+  <tr>
+    <td rowspan="3" width="50%"><img src="assets/metrics-classic.svg" alt="chunma public GitHub overview" width="480" /></td>
+    <td width="50%"><img src="assets/metrics-calendar.svg" alt="GitHub contribution calendar for the last year" width="480" /></td>
+  </tr>
+  <tr><td><img src="assets/metrics-languages.svg" alt="Primary languages across original public repositories" width="480" /></td></tr>
+  <tr><td><img src="assets/metrics-stars.svg" alt="Four recently starred repositories" width="480" /></td></tr>
+</table>
+
+<sub>Public data refreshed daily. Languages are counted by repository, not code volume. Layout inspired by <a href="https://github.com/aw4e/aw4e">aw4e</a>; cards maintained by <a href="https://github.com/chunma-san">chunma-san</a>.</sub>
+<!-- PROFILE-METRICS:END -->
+
 <!-- PUBLIC-PROJECTS:START -->
 ## Public activity
 
