@@ -199,10 +199,10 @@
         0,
         0,
         1,
-        31,
+        30,
         33,
         23,
-        0
+        2
       ],
       "issues_opened": [
         0,
@@ -359,19 +359,19 @@
         0,
         0,
         1,
-        31,
+        30,
         33,
         23,
-        0
+        2
       ]
     },
     "totals": {
-      "events": 88,
+      "events": 89,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 88
+      "pushes": 89
     },
     "event_limit_reached": true,
     "contributors": [
