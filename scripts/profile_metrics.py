@@ -114,6 +114,8 @@ def main():
     lang = card('Languages', 'Primary language by original public repository · not code bytes', 212, body)
 
     body = ''
+    if not starred:
+        body = text(24, 100, 'No public starred repositories yet.', 13)
     for i, repo in enumerate(starred):
         y = 88 + i*44
         label = repo['full_name']
