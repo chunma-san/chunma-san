@@ -28,7 +28,7 @@
       "name": "chunma-san/chunma-san",
       "url": "https://github.com/chunma-san/chunma-san",
       "description": "Profile artwork, Discord presence and self-hosted projects.",
-      "language": null,
+      "language": "Python",
       "fork": false,
       "archived": false
     },
