@@ -196,12 +196,12 @@
         0,
         0,
         0,
-        2,
-        17,
+        1,
+        16,
         25,
         20,
         19,
-        2,
+        3,
         1
       ],
       "issues_opened": [
@@ -356,22 +356,22 @@
         0,
         0,
         0,
-        2,
-        17,
+        1,
+        16,
         25,
         20,
         19,
-        2,
+        3,
         1
       ]
     },
     "totals": {
-      "events": 86,
+      "events": 85,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 86
+      "pushes": 85
     },
     "event_limit_reached": true,
     "contributors": [
