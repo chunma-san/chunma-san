@@ -200,7 +200,7 @@
         22,
         18,
         18,
-        13,
+        14,
         8,
         2
       ],
@@ -360,18 +360,18 @@
         22,
         18,
         18,
-        13,
+        14,
         8,
         2
       ]
     },
     "totals": {
-      "events": 89,
+      "events": 90,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 89
+      "pushes": 90
     },
     "event_limit_reached": true,
     "contributors": [
