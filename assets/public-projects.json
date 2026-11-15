@@ -201,7 +201,7 @@
         18,
         17,
         16,
-        8,
+        9,
         5
       ],
       "issues_opened": [
@@ -361,23 +361,23 @@
         18,
         17,
         16,
-        8,
+        9,
         5
       ]
     },
     "totals": {
-      "events": 89,
+      "events": 90,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 89
+      "pushes": 90
     },
     "event_limit_reached": true,
     "contributors": [
       {
         "login": "chunma-san",
-        "commits": 845
+        "commits": 846
       }
     ]
   }
