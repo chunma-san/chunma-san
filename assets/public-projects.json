@@ -127,14 +127,6 @@
       "language": "Python",
       "fork": false,
       "archived": false
-    },
-    {
-      "name": "chunma-san/Wand-Enhancer",
-      "url": "https://github.com/chunma-san/Wand-Enhancer",
-      "description": "chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.",
-      "language": "C#",
-      "fork": true,
-      "archived": false
     }
   ],
   "activity": {
