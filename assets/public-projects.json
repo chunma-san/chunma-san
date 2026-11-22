@@ -188,13 +188,13 @@
         0,
         0,
         4,
-        19,
+        18,
         17,
         19,
         14,
         17,
         11,
-        7
+        8
       ],
       "issues_opened": [
         0,
@@ -354,7 +354,7 @@
         14,
         17,
         11,
-        7
+        8
       ]
     },
     "totals": {
@@ -363,7 +363,7 @@
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 106
+      "pushes": 107
     },
     "event_limit_reached": true,
     "contributors": [
