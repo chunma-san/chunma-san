@@ -188,11 +188,11 @@
         0,
         0,
         4,
-        26,
+        24,
         17,
         19,
         14,
-        14,
+        15,
         11,
         6
       ],
@@ -352,18 +352,18 @@
         17,
         19,
         14,
-        14,
+        15,
         11,
         6
       ]
     },
     "totals": {
-      "events": 111,
+      "events": 110,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 102
+      "pushes": 103
     },
     "event_limit_reached": true,
     "contributors": [
