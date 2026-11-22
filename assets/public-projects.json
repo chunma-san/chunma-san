@@ -188,7 +188,7 @@
         0,
         0,
         4,
-        27,
+        26,
         17,
         19,
         14,
@@ -358,7 +358,7 @@
       ]
     },
     "totals": {
-      "events": 112,
+      "events": 111,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
