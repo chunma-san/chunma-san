@@ -188,7 +188,7 @@
         0,
         0,
         4,
-        33,
+        32,
         17,
         19,
         14,
@@ -358,7 +358,7 @@
       ]
     },
     "totals": {
-      "events": 118,
+      "events": 117,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
@@ -369,7 +369,7 @@
     "contributors": [
       {
         "login": "chunma-san",
-        "commits": 999
+        "commits": 1000
       }
     ]
   }
