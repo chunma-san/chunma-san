@@ -188,7 +188,7 @@
         0,
         2,
         13,
-        8,
+        7,
         14,
         18,
         19,
@@ -348,7 +348,7 @@
         0,
         2,
         13,
-        8,
+        7,
         14,
         18,
         19,
@@ -358,12 +358,12 @@
       ]
     },
     "totals": {
-      "events": 100,
+      "events": 99,
       "issues_opened": 0,
       "issues_closed": 0,
       "prs_opened": 0,
       "prs_closed": 0,
-      "pushes": 100
+      "pushes": 99
     },
     "event_limit_reached": true,
     "contributors": [
